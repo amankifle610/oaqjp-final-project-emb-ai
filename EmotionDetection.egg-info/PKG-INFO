@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: EmotionDetection
+Version: 0.1
+Summary: A package for emotion detection using Watson NLP
+Home-page: https://github.com/yourusername/EmotionDetection
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Dist: requests
